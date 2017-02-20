@@ -1,0 +1,18 @@
+# ignore eclipse files
+.project
+.classpath
+.settings
+.metadata
+RemoteSystemsTempFiles
+
+# ignore Maven generated target folders
+target
+build
+bin
+
+# Package Files #
+*.class
+*.jar
+*.war
+*.ear
+*.zip
